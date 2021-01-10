@@ -1,0 +1,728 @@
+# Webalizer V2.01-10 Incremental Data - 06/25/2007 19:49:39
+2007 6 25 19 49 39
+4210 3511 51 31 57 110 36787107 812 353 0
+13 4 68 1 25
+97 83 1012328 2 15 11
+117 108 1013906 14 16 12
+130 114 902462 2 22 8
+294 222 2893404 1 76 10
+166 140 1001434 2 52 11
+354 284 3667216 2 80 11
+424 366 4270784 2 68 11
+392 274 2943320 2 68 14
+240 216 1876588 2 32 8
+330 290 3775324 2 78 14
+300 260 2701220 2 52 11
+56 49 579435 2 12 8
+157 144 1546487 2 43 14
+66 43 313546 2 17 11
+110 97 1072181 2 18 10
+50 47 384277 2 8 5
+111 93 859702 1 17 6
+60 53 436445 2 16 9
+186 143 1404723 2 24 12
+156 136 1269816 2 21 10
+125 117 972081 2 24 11
+56 50 416575 1 7 4
+65 44 354075 1 11 8
+71 58 455091 12 15 12
+97 80 664687 13 20 16
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+45 32 223808 17
+79 48 503460 32
+235 92 1008687 30
+114 97 835595 18
+134 109 905380 31
+88 78 557757 19
+216 193 2470452 46
+183 152 1815420 33
+243 177 2430224 48
+374 317 3382702 56
+272 246 2560524 41
+315 268 3074755 47
+112 103 802647 22
+211 197 1879741 36
+196 171 1495962 23
+189 176 2283194 39
+222 191 2048822 41
+359 327 4074813 68
+111 93 720556 23
+227 213 1957234 66
+96 79 545292 35
+99 79 649461 16
+16 9 40317 11
+74 64 520304 14
+0
+0
+0
+3511
+0
+0
+0
+0
+0
+21
+0
+0
+0
+0
+304
+0
+0
+0
+0
+0
+0
+374
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/
+0 401 0 1490764 255 179
+/database.html
+0 59 0 232100 14 9
+/images/header_bullet_on.gif
+1 319 0 79989 0 0
+/images/information_left_img.jpg
+1 34 0 1323049 0 0
+/images/header_green_bg.gif
+1 291 0 54876 0 0
+/images/header_bullet.gif
+1 328 0 78399 0 0
+/images/info_content_bg_img.gif
+1 33 0 1091541 0 0
+/images/integration_left_img.jpg
+1 30 0 828030 0 0
+/images/home_content_bg_img.gif
+1 271 0 8495070 0 0
+/images/partnership_content_bg_img.gif
+1 16 0 392384 0 0
+/styles/soxx_stylesheet.css
+0 305 0 3164720 0 0
+/images/ebusiness_left_img.jpg
+1 39 0 2114920 0 0
+/integration.html
+0 52 0 200998 13 17
+/images/contact_left_img.jpg
+1 13 0 302797 0 0
+/contact.html
+0 45 0 178432 17 16
+/scripts/rollover.js
+0 303 0 310517 0 0
+/images/database_left_img.jpg
+1 36 0 880256 0 0
+/images/database_content_bg_img.gif
+1 33 0 925753 0 0
+/images/what_left_img.jpg
+1 43 0 1168746 0 0
+/partnerships.html
+0 46 0 203826 13 19
+/images/bullet.gif
+1 237 0 38520 0 0
+/images/integration_content_bg_img.gif
+1 28 0 840364 0 0
+/images/ebusiness_content_bg_img.gif
+1 34 0 1081377 0 0
+/images/home_left_img.jpg
+1 272 0 6277183 0 0
+Images
+2 2424 0 29839791 0 0
+/images/partnerships_left_img.jpg
+1 20 0 863360 0 0
+/ebusiness.html
+0 77 0 322275 21 33
+/images/contact_content_bg_img.gif
+1 12 0 348450 0 0
+/what_we_do.html
+0 66 0 329010 6 18
+/images/what_content_bg_img.gif
+1 40 0 1158960 0 0
+/images/header_logo.gif
+1 295 0 1495767 0 0
+/information_management.html
+0 58 0 252126 10 17
+# End Of Table - urls
+# -sites- (monthly)
+65.54.188.17
+0 2 1 5687 1 1182790864
+/what_we_do.html
+65.54.188.18
+0 4 3 13255 1 1182657290
+/
+65.54.188.19
+0 2 1 5054 1 1182738650
+/contact.html
+65.54.188.20
+0 2 1 5133 1 1182718598
+/partnerships.html
+64.12.122.195
+0 3 3 11887 0 0
+-
+64.12.122.196
+0 4 4 9849 1 1180804580
+/
+64.12.122.197
+0 2 2 25932 0 0
+-
+64.12.122.198
+0 2 1 34016 0 0
+-
+195.3.113.70
+0 12 10 82386 1 1182757991
+/
+89.211.4.4
+0 11 10 81684 1 1182703555
+/
+89.24.4.68
+0 7 0 0 1 1180693126
+/
+213.33.89.233
+0 10 10 80982 1 1182757335
+/
+218.185.83.34
+0 4 3 66456 1 1180753591
+/ebusiness.html
+www.soxx.com
+0 3271 2721 28260177 256 1182626239
+/
+24.117.32.77
+0 11 10 81684 1 1180723745
+/
+65.55.208.28
+0 3 2 9269 1 1182716137
+/database.html
+65.55.208.34
+0 2 1 4999 1 1182688975
+/ebusiness.html
+64.210.196.197
+0 11 9 82093 1 1180717291
+/
+74.73.62.181
+0 10 9 81504 1 1182758396
+/
+89.44.241.12
+0 22 17 146948 2 1180761434
+/
+68.142.212.198
+0 2 0 702 0 0
+-
+75.74.185.173
+0 11 10 81684 1 1182717999
+/
+84.47.210.5
+0 3 3 33799 0 0
+-
+84.47.210.6
+0 5 5 46710 1 1180686866
+/
+80.178.148.186
+0 12 9 82908 1 1182741877
+/
+soxx.com
+0 557 481 5380918 47 1182433818
+/
+62.1.108.214
+0 10 10 90994 1 1180689540
+/partnerships.html
+82.99.233.241
+0 13 11 89375 1 1182745919
+/
+74.208.71.84
+0 1 1 3986 1 1182690709
+/
+213.198.232.188
+0 2 2 31728 1 1182752186
+/database.html
+70.85.114.58
+0 4 2 9376 2 1182800979
+/
+65.55.215.42
+0 10 7 32840 4 1182797443
+/contact.html
+82.239.68.75
+0 1 1 3986 1 1180787379
+/
+213.42.21.80
+0 13 13 143447 1 1180781651
+/what_we_do.html
+82.240.205.31
+0 10 9 81504 1 1182770124
+/
+87.122.212.190
+0 12 11 81977 1 1180756534
+/
+86.214.212.104
+0 10 10 80982 1 1182787257
+/
+74.6.75.16
+0 1 0 702 0 0
+-
+217.145.195.29
+0 27 27 509104 1 1180688420
+/partnerships.html
+84.223.186.247
+0 10 9 81504 1 1182667533
+/
+89.150.197.138
+0 6 2 10389 3 1182670646
+/
+218.147.251.58
+0 10 10 80982 1 1180827243
+/
+66.249.72.74
+0 2 1 5049 1 1182799764
+/information_management.html
+139.18.13.203
+0 1 1 4347 1 1180659488
+/information_management.html
+196.1.176.178
+0 9 9 80689 1 1180680999
+/
+85.18.53.169
+0 10 9 81504 1 1180689415
+/
+86.140.111.122
+0 11 10 81684 1 1182682959
+/
+217.219.66.4
+0 13 13 161085 1 1180751045
+/information_management.html
+210.183.252.31
+0 20 20 161964 1 1180748716
+/
+196.202.108.146
+0 9 9 80689 1 1180804608
+/
+88.74.9.130
+0 10 9 81504 1 1182696148
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+65.54.188.17
+0 2 1 5687 1 1182790864
+/what_we_do.html
+65.54.188.19
+0 2 1 5054 1 1182738650
+/contact.html
+195.3.113.70
+0 12 10 82386 1 1182757991
+/
+213.33.89.233
+0 10 10 80982 1 1182757335
+/
+74.73.62.181
+0 10 9 81504 1 1182758396
+/
+80.178.148.186
+0 12 9 82908 1 1182741877
+/
+82.99.233.241
+0 13 11 89375 1 1182745919
+/
+213.198.232.188
+0 2 2 31728 1 1182752186
+/database.html
+70.85.114.58
+0 2 1 4688 1 1182800979
+/
+65.55.215.42
+0 10 7 32840 4 1182797443
+/contact.html
+82.240.205.31
+0 10 9 81504 1 1182770124
+/
+86.214.212.104
+0 10 10 80982 1 1182787257
+/
+66.249.72.74
+0 2 1 5049 1 1182799764
+/information_management.html
+# End Of Table - sites (daily)
+# -referrers- 
+http://soxx.com/what_we_do.html
+0 16
+http://www.soxx.com/integration.html
+0 72
+- (Direct Request)
+0 950
+http://www.soxx.com/images/header_logo.gif
+0 2
+http://www.soxx.com
+0 125
+http://www.google.co.uk/search
+0 2
+http://soxx.com/partnerships.html
+0 14
+http://soxx.com/integration.html
+0 18
+http://soxx.com/contact.html
+0 4
+http://www.ecommercepartners.net/clients_all.shtml
+0 1
+http://www.soxx.com/index.html
+0 73
+http://images.google.co.uk/imgres
+0 1
+http://www.google.com/search
+0 17
+www.soxx.com
+0 3
+http://images.google.com.au/imgres
+0 3
+http://www.google.co.il/search
+0 1
+http://soxx.com/ebusiness.html
+0 6
+http://images.google.com.br/imgres
+0 2
+http://www.google.de/search
+0 2
+http://10.218.129.118:82/prc0/0/388/igtime77329.983999976
+0 4
+http://www.google.nl/search
+0 2
+http://translate.google.com/translate
+0 1
+http://search.live.com/results.aspx
+0 2
+http://soxx.com
+0 29
+http://www.google.co.in/search
+0 1
+http://vnc4rum.com/vn/showthread.php
+0 1
+http://images.google.co.in/imgres
+0 2
+http://images.google.com.mx/imgres
+0 2
+http://www.shrutigupta.com/index.php/portfolio/
+0 2
+http://www.soxx.com/images/home_left_img.jpg
+0 2
+http://www.soxx.com/information_management.html
+0 79
+http://images.google.gr/imgres
+0 1
+http://www.google.ro/search
+0 1
+http://www.soxx.com/contact.html
+0 34
+http://www.google.ae/search
+0 1
+http://whois.domaintools.com/soxx.com
+0 2
+http://soxx.com/
+0 333
+http://soxx.com/database.html
+0 14
+http://soxx.com/styles/soxx_stylesheet.css
+0 46
+http://www.soxx.com/styles/soxx_stylesheet.css
+0 112
+http://www.google.it/search
+0 2
+http://www.vnc4rum.com/vn/showthread.php
+0 2
+http://www.pingdom.com/tools/fpt/
+0 3
+http://www.soxx.com/partnerships.html
+0 58
+http://www.soxx.com/
+0 1753
+http://10.218.129.123:82/prc0/0/471/igtime77294.859000016
+0 16
+http://www.soxx.com/database.html
+0 87
+http://soxx.com/index.html
+0 2
+http://www.google.com/custom
+0 1
+http://images.google.com/imgres
+0 4
+http://www.soxx.com/ebusiness.html
+0 150
+http://soxx.com/information_management.html
+0 10
+http://www.google.fr/search
+0 2
+http://www.soxx.com/what_we_do.html
+0 126
+http://search.live.com/result.aspx
+0 2
+http://www.google.com.ng/search
+0 1
+http://www.soxx.com/images/header_bullet.gif
+0 2
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (compatible; Ask Jeeves/Teoma; +http://about.ask.
+0 10
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; InfoP
+0 13
+PHP version tracker (http://www.nexen.net/phpversion/bot.php)
+0 2
+ilial/Nutch-0.9 (Ilial, Inc. is a Los Angeles based Internet 
+0 22
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; i-Nav
+0 20
+Googlebot-Image/1.0
+0 4
+Mozilla/5.0 (Windows; U; Windows NT 5.1; it; rv:1.8.0.12) Gec
+0 10
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET 
+0 165
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; FunWebProd
+0 10
+Mozilla/5.0 (Windows; U; Windows NT 5.1; de; rv:1.8.1.4) Geck
+0 57
+cks
+0 2
+Mozilla/4.0 (compatible; MSIE 6.0; Windows XP)
+0 20
+psbot/0.1 (+http://www.picsearch.com/bot.html)
+0 20
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.7.12) Gecko/2005
+0 18
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.7.12) Gecko/2006
+0 2
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.1) G
+0 18
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Avant Brow
+0 40
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; .NET CLR 1
+0 13
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; .NET CLR 1.1.4
+0 10
+Mozilla/4.0 (compatible; MSIE 5.5; Windows 98; Win 9x 4.90)
+0 28
+msnbot/1.0 (+http://search.msn.com/msnbot.htm)
+0 167
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.2; .NET CLR 1
+0 30
+Mozilla/4.0 (compatible; MSIE 5.0; Windows NT; Girafabot; gir
+0 2
+boitho.com-dc/0.86 ( http://www.boitho.com/dcbot.html )
+0 2
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1)
+0 265
+voyager/1.0
+0 5
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; MSDigitalL
+0 11
+Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.8.0.12) Gec
+0 10
+IRLbot/3.0 (compatible; MSIE 6.0; http://irl.cs.tamu.edu/craw
+0 2
+Yahoo-MMCrawler/3.x (mms dash mmcrawler dash support at yahoo
+0 14
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.3) G
+0 63
+Opera/9.20 (Windows NT 5.1; U; en)
+0 20
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET 
+0 593
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; Arcor
+0 20
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; SV1; .NET 
+0 2
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X Mach-O; en-US; rv:1.8
+0 33
+Chilkat/1.0.0 (+http://www.chilkatsoft.com/ChilkatHttpUA.asp)
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0; America Online Browser 1.7
+0 10
+ee://aol/http
+0 1
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.1.4) Gecko/200
+0 20
+Microsoft URL Control - 6.00.8862
+0 1
+Mozilla/5.0 (compatible; Exabot/3.0; +http://www.exabot.com/g
+0 4
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; .NET CLR 1
+0 15
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.0.7) G
+0 20
+Mozilla/5.0 (Windows; U; Windows NT 5.1; it; rv:1.8.1.4) Geck
+0 22
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1
+0 538
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 2
+0 67
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0)
+0 43
+i-mobile510 WAP Browser
+0 10
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)
+0 59
+MOT-MOTOROKR E6/1.0/R533_G_11.12.06P Mozilla/4.0 (compatible;
+0 14
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.0.12) 
+0 52
+Mozilla/2.0 (compatible; Ask Jeeves/Teoma; +http://about.ask.
+0 2
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; Google Wir
+0 7
+Mozilla/5.0 (Windows; U; Windows NT 5.1; hu; rv:1.7.13) Gecko
+0 18
+Mozilla/5.0 (Windows; U; Windows NT 5.1; hu; rv:1.8.0.12) Gec
+0 20
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; Win64; x64
+0 6
+panscient.com
+0 10
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; InfoPath.1
+0 81
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.4)
+0 10
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; IE7-0
+0 10
+Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0)
+0 10
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; .NET CLR 1
+0 51
+Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.8.1.4) Geck
+0 41
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/418.
+0 11
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/419 
+0 2
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.co
+0 12
+boitho.com-dc/0.85 ( http://www.boitho.com/dcbot.html )
+0 7
+Pingdom GIGRIB (http://www.pingdom.com)
+0 6
+Speedy Spider (http://www.entireweb.com/about/search_tech/spe
+0 21
+Mozilla/3.01 (compatible;)
+0 4
+Mozilla/5.0 (Twiceler-0.9 http://www.cuill.com/twiceler/robot
+0 5
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; Embed
+0 10
+Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.8.1) Gecko/
+0 10
+webGobbler/1.2.6
+0 2
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; YPC 3.2.0;
+0 11
+findlinks/1.1.4-beta1 (+http://wortschatz.uni-leipzig.de/find
+0 5
+Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/
+0 40
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+0 513
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.1) Gecko/20061
+0 10
+findlinks/1.1.1-a5 (+http://wortschatz.uni-leipzig.de/findlin
+0 7
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; SIMBA
+0 40
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; SLCC1; .NE
+0 117
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; Freep
+0 10
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.7.5) Gecko/20041
+0 4
+Mozilla/5.0 (compatible; Google Desktop)
+0 4
+SBIder/SBIder-0.8.2-dev (http://www.sitesell.com/sbider.html)
+0 20
+Mozilla/5.0 (Windows; U; Windows NT 5.1; de; rv:1.8.0.12) Gec
+0 20
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.4) G
+0 199
+Mozilla/5.0 (Windows; U; Windows NT 5.1; hu; rv:1.8.1.4) Geck
+0 32
+SAMSUNG-SGH-E630/1.0 UP.Browser/6.2.2.6 (GUI) MMP/1.0
+0 5
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; Media
+0 20
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X; de-de) AppleWebKit
+0 18
+Mozilla/5.0 (Windows; U; Windows NT 5.1; pt-PT; rv:1.8.1.4) G
+0 50
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X; it; rv:1.8.0.12) G
+0 10
+Lynx/2.8.4rel.1 libwww-FM/2.14 SSL-MM/1.4.1 OpenSSL/0.9.6b
+0 2
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; MRA 4
+0 10
+Snoopy v1.2
+0 2
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1),gzip(gfe) 
+0 1
+msnbot-media/1.0 (+http://search.msn.com/msnbot.htm)
+0 7
+boitho.com-dc/0.82 ( http://www.boitho.com/dcbot.html )
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9a4) Gec
+0 10
+findlinks/1.1.3-beta9 (+http://wortschatz.uni-leipzig.de/find
+0 5
+Mozilla/4.0 (compatible; MSIE 6.0; Bluecoat DRTR)
+0 2
+Java/1.6.0_01-ea
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; FunWebProd
+0 36
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.0.10
+0 10
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1;  Embedded 
+0 11
+Mozilla/5.0 (Windows; U; Windows NT 5.2; en-US; rv:1.8.1.4) G
+0 10
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X; de; rv:1.8.1.4) Ge
+0 10
+# End Of Table - agents
+# -search strings- 
+custom web design by ecommerce partners new york
+2
+workflow oracle
+2
+oracle database
+2
+.soxx - performance
+1
+oracle e-business suite implementation champion for oracle hr
+2
+soxx software
+1
+soxx.com
+1
+ebusiness
+2
+expert system model e-business
+1
+soxx components
+2
+e-business
+1
+soxx
+11
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

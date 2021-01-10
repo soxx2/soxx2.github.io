@@ -1,0 +1,262 @@
+/* CSS Document */
+
+body {
+	text-align:center; color:#000; background-color:#FFF; font: normal 11px/160% Verdana, Arial, Helvetica, sans-serif;
+}
+
+/* ============================== GENERIC STYLES ============================================= */
+
+#holder { text-align:left; margin:auto; width:771px; border:0px; padding:0px; position:relative; }
+
+table { width:100%; padding:0px; margin:0px; border:0px; vertical-align:top; }
+
+td { vertical-align:top; }
+
+img { border:0; }
+
+p { margin:0px; padding:12px; border:0px; text-align:left; }
+
+h1 { 
+	color:#666; background-color:#FFF; font: bold small/110% Georgia, "Times New Roman", Times, serif; 
+	text-align:left; padding: 10px 0px 0px 12px; margin:0px; border:0px; letter-spacing: 0.05em; 
+}
+
+ul { text-align:left; padding-right:10px; list-style-image:url(../images/bullet.gif); list-style-position:outside; }
+
+li { padding-top:5px; }
+
+strong { font: bold 11px/160% Verdana, Arial, Helvetica, sans-serif; color:#666; background-color:transparent; }
+
+a:link, a:visited, a:active {
+	font: bold 11px/160% Verdana, Arial, Helvetica, sans-serif; text-decoration:none; color:#000; background-color:transparent;
+}
+
+a:hover { color:#999; background-color:transparent; text-decoration: none; }
+
+/* ============================== HEADER STYLES ============================================= */
+
+#header {
+	width:100%; height:135px; background: #FFF url(../images/header_green_bg.gif) repeat-x 0% 0%; vertical-align:middle; 
+	margin:0px; padding:0px; border:0px;
+}
+
+#logo { padding:3px; width:279px; height:129px; float:left; }
+
+#topNav ul { list-style:none; padding:46px 0 0 0; margin:0px; border:0px; }
+
+#topNav ul li { float:left; }
+
+#topNav ul li a {
+	display:block; width:95px; text-decoration:none; text-align:center; text-transform:uppercase;
+	font: bold 11px Helvetica, Arial, sans-serif; color:#FFF; background-color:transparent; letter-spacing:0.06em;
+}
+
+#topNav ul li img { display:block; text-align:center; margin:auto; padding-top:5px; border:0px; }
+
+/* ============================== SUB NAVIGATION STYLES ============================================= */
+
+#subNav { width:100%; background-color:#FFF; height:24px; text-align:right; margin:0px; padding:0px; border:0px; vertical-align:middle; }
+
+#subNav a { 
+	font: bold 11px Helvetica, Arial, sans-serif; color:#999; background-color:#FFF; text-decoration:none; text-transform:uppercase; 
+	padding:0px 2px 0px 20px; height:20px; margin:0px; border:0px; vertical-align:middle;
+}
+
+#subNav a:hover { color:#666; background-color:#FFF; }
+
+/* ============================== MAIN BODY CONTENT STYLES ============================================= */
+
+#mainBody { width:100%; margin:0px; padding:0px; border:0px; height:276px; background-color:#F2F1F2; clear:left; }
+
+#leftImageDiv { background-color:#DFDEDE; float:left; width:266px; height:270px; padding:3px 4px 3px 4px; }
+
+/* Home Page */
+
+#homeRightContentDiv {
+	background:#F2F1F2 url(../images/home_content_bg_img.gif) no-repeat top right; padding:0px; z-index:101; margin: 0 0 0 274px; 
+	height:276px;
+}
+
+#homeContent {
+	margin:0px; width:403px; height:102px; z-index:102; text-align:center; filter: alpha(opacity=65); -moz-opacity: .65; opacity: 0.65; 
+	background-color:#FFF; position:absolute; top: 246px; left: 315px; overflow:auto; 
+	 scrollbar-face-color: #F2F1F2; scrollbar-highlight-color: #F2F1F2; scrollbar-shadow-color: #F2F1F2; scrollbar-3dlight-color: #F2F1F2; 
+	 scrollbar-arrow-color: #B1AFAF; scrollbar-track-color: #F2F1F2; scrollbar-darkshadow-color: #F2F1F2;
+}
+
+/* Ebusiness Page */
+
+#ebusinessRightContentDiv {
+	background:#F2F1F2 url(../images/ebusiness_content_bg_img.gif) no-repeat top right; padding:0px; z-index:101; margin: 0 0 0 274px; 
+	height:276px;
+}
+
+
+#ebusinessContent {
+	margin:0px; width:403px; height:240px; z-index:102; text-align:center; filter: alpha(opacity=65); -moz-opacity: .65; opacity: 0.65; 
+	background-color:#FFF; position:absolute; top: 178px; left: 315px; overflow:auto; 
+	 scrollbar-face-color: #F2F1F2; scrollbar-highlight-color: #F2F1F2; scrollbar-shadow-color: #F2F1F2; scrollbar-3dlight-color: #F2F1F2; 
+	 scrollbar-arrow-color: #B1AFAF; scrollbar-track-color: #F2F1F2; scrollbar-darkshadow-color: #F2F1F2;
+}
+
+#ebusinessContent ul { margin-bottom:0px; }
+
+/* Database Services Page */
+
+#dbRightContentDiv {
+	background:#F2F1F2 url(../images/database_content_bg_img.gif) no-repeat top right; padding:0px; z-index:101; margin: 0 0 0 274px; 
+	height:276px;
+}
+
+
+#databaseContent {
+	margin:0px; width:403px; height:215px; z-index:102; text-align:center; filter: alpha(opacity=65); -moz-opacity: .65; opacity: 0.65; 
+	background-color:#FFF; position:absolute; top: 194px; left: 315px; overflow:auto; 
+	 scrollbar-face-color: #F2F1F2; scrollbar-highlight-color: #F2F1F2; scrollbar-shadow-color: #F2F1F2; scrollbar-3dlight-color: #F2F1F2; 
+	 scrollbar-arrow-color: #B1AFAF; scrollbar-track-color: #F2F1F2; scrollbar-darkshadow-color: #F2F1F2;
+}
+
+#databaseContent ul { margin-top: 0px; margin-bottom:0px; }
+
+/* Information Management Page */
+
+#infoRightContentDiv {
+	background:#F2F1F2 url(../images/info_content_bg_img.gif) no-repeat top right; padding:0px; z-index:101; margin: 0 0 0 274px; 
+	height:276px;
+}
+
+
+#infoContent {
+	margin:0px; width:403px; height:260px; z-index:102; text-align:center; filter: alpha(opacity=65); -moz-opacity: .65; opacity: 0.65; 
+	background-color:#FFF; position:absolute; top: 168px; left: 315px; overflow:auto; 
+	 scrollbar-face-color: #F2F1F2; scrollbar-highlight-color: #F2F1F2; scrollbar-shadow-color: #F2F1F2; scrollbar-3dlight-color: #F2F1F2; 
+	 scrollbar-arrow-color: #B1AFAF; scrollbar-track-color: #F2F1F2; scrollbar-darkshadow-color: #F2F1F2;
+}
+
+#infoContent ul { margin-top: 0px; margin-bottom:0px; }
+
+/* Integration Services Page */
+
+#integrationRightContentDiv {
+	background:#F2F1F2 url(../images/integration_content_bg_img.gif) no-repeat top right; padding:0px; z-index:101; margin: 0 0 0 274px; 
+	height:276px;
+}
+
+#integrationContent {
+	margin:0px; width:403px; height:170px; z-index:102; text-align:center; filter: alpha(opacity=65); -moz-opacity: .65; opacity: 0.65; 
+	background-color:#FFF; position:absolute; top: 210px; left: 315px; overflow:auto; 
+	 scrollbar-face-color: #F2F1F2; scrollbar-highlight-color: #F2F1F2; scrollbar-shadow-color: #F2F1F2; scrollbar-3dlight-color: #F2F1F2; 
+	 scrollbar-arrow-color: #B1AFAF; scrollbar-track-color: #F2F1F2; scrollbar-darkshadow-color: #F2F1F2;
+}
+
+#integrationContent ul { margin-top: 0px; margin-bottom:0px; }
+
+/* Business Continuance Page */
+
+#businessRightContentDiv {
+	background:#F2F1F2 url(../images/business_content_bg_img.gif) no-repeat top right; padding:0px; z-index:101; margin: 0 0 0 274px; 
+	height:276px;
+}
+
+#businessContent {
+	margin:0px; width:403px; height:170px; z-index:102; text-align:center; filter: alpha(opacity=65); -moz-opacity: .65; opacity: 0.65; 
+	background-color:#FFF; position:absolute; top: 210px; left: 315px; overflow:auto; 
+	 scrollbar-face-color: #F2F1F2; scrollbar-highlight-color: #F2F1F2; scrollbar-shadow-color: #F2F1F2; scrollbar-3dlight-color: #F2F1F2; 
+	 scrollbar-arrow-color: #B1AFAF; scrollbar-track-color: #F2F1F2; scrollbar-darkshadow-color: #F2F1F2;
+}
+
+#businessContent ul { margin-bottom:0px; }
+
+/* Partnerships Page */
+
+#partnershipRightContentDiv {
+	background:#F2F1F2 url(../images/partnership_content_bg_img.gif) no-repeat top right; padding:0px; z-index:101; margin: 0 0 0 274px; 
+	height:276px;
+}
+
+#partnershipContent {
+	margin:0px; width:403px; height:250px; z-index:102; text-align:center; filter: alpha(opacity=65); -moz-opacity: .65; opacity: 0.65; 
+	background-color:#FFF; position:absolute; top: 173px; left: 315px; overflow:auto; 
+	 scrollbar-face-color: #F2F1F2; scrollbar-highlight-color: #F2F1F2; scrollbar-shadow-color: #F2F1F2; scrollbar-3dlight-color: #F2F1F2; 
+	 scrollbar-arrow-color: #B1AFAF; scrollbar-track-color: #F2F1F2; scrollbar-darkshadow-color: #F2F1F2;
+}
+
+/* Contact Us Page */
+
+#contactRightContentDiv {
+	background:#F2F1F2 url(../images/contact_content_bg_img.gif) no-repeat top right; padding:0px; z-index:101; margin: 0 0 0 274px; 
+	height:276px;
+}
+
+#contactContent {
+	margin:0px; width:403px; height:260px; z-index:102; text-align:center; filter: alpha(opacity=65); -moz-opacity: .65; opacity: 0.65; 
+	background-color:#FFF; position:absolute; top: 168px; left: 315px; overflow:auto; 
+	 scrollbar-face-color: #F2F1F2; scrollbar-highlight-color: #F2F1F2; scrollbar-shadow-color: #F2F1F2; scrollbar-3dlight-color: #F2F1F2; 
+	 scrollbar-arrow-color: #B1AFAF; scrollbar-track-color: #F2F1F2; scrollbar-darkshadow-color: #F2F1F2;
+}
+
+#contactContent p {	
+	padding: 5px 12px 5px 12px;
+}
+
+#contactContent p.address { padding: 0px 12px 0px 12px; font-style:italic; }
+
+/* Privacy Page */
+
+#privacyContent {
+	margin:0px; width:403px; height:260px; z-index:102; text-align:center; filter: alpha(opacity=65); -moz-opacity: .65; opacity: 0.65; 
+	background-color:#FFF; position:absolute; top: 168px; left: 315px; overflow:auto; 
+	 scrollbar-face-color: #F2F1F2; scrollbar-highlight-color: #F2F1F2; scrollbar-shadow-color: #F2F1F2; scrollbar-3dlight-color: #F2F1F2; 
+	 scrollbar-arrow-color: #B1AFAF; scrollbar-track-color: #F2F1F2; scrollbar-darkshadow-color: #F2F1F2;
+}
+
+/* What We Do Page */
+
+#whatRightContentDiv {
+	background:#F2F1F2 url(../images/what_content_bg_img.gif) no-repeat top right; padding:0px; z-index:101; margin: 0 0 0 274px; 
+	height:276px;
+}
+
+#whatContent {
+	margin:0px; width:403px; height:260px; z-index:102; text-align:center; filter: alpha(opacity=65); -moz-opacity: .65; opacity: 0.65; 
+	background-color:#FFF; position:absolute; top: 168px; left: 315px; overflow:auto; 
+	 scrollbar-face-color: #F2F1F2; scrollbar-highlight-color: #F2F1F2; scrollbar-shadow-color: #F2F1F2; scrollbar-3dlight-color: #F2F1F2; 
+	 scrollbar-arrow-color: #B1AFAF; scrollbar-track-color: #F2F1F2; scrollbar-darkshadow-color: #F2F1F2;
+}
+
+#whatContent p {	
+	padding: 5px 12px 5px 12px;
+}
+
+#whatContent p.lead {	
+	padding: 12px 12px 5px 12px;
+}
+
+/* ============================== FOOTER STYLES ============================================= */
+
+#footer { width:100%; margin:5px 0px 5px 0px; border:0px; padding:0px; height:42px; }
+
+#greenBarDiv { width:100%; margin:0 0 1px 0; padding:0px; border:0px; height:3px; background-color:#89C811; }
+
+#footerLinksDiv { 
+	width:100%; height:38px; background-color:#B1AFAF; margin:0px; padding:0px; border:0px; 
+	text-align:center; color:#FFF; vertical-align:middle; font-size:x-small;
+}
+
+#footerLinksDiv a { text-decoration:none; color:#FFF; background-color:transparent; font-size:x-small; font-weight:normal; }
+
+#footerLinksDiv a:hover { text-decoration:none; color:#666; background-color:transparent; }
+
+#copyright { width:100%; padding: 0px; border:0px; margin:0px; color:#666; font-size:x-small; }
+
+#copyrightInfo { float:left; width:50%; text-align:left; }
+
+#ecp { text-align:right; margin-left:50%; }
+
+#ecp a { text-decoration:none; color:#666; font-size:x-small; font-weight:normal; }
+
+#ecp a:hover { text-decoration:none; color:#999; }
+
+
+
+
